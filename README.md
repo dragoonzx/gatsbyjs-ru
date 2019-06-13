@@ -91,7 +91,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 На русском:
 
-**Этот репозиторий!**
+**Этот репозиторий и сайт (http://www.speedyexchange.com/)**
 
 ## 💫 Выкладываем сайт в интернет
 
