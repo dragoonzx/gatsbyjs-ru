@@ -1,10 +1,11 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby-starter-tutorial-ru",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Russian tutorial for using breathtaking Gatsby framework",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Max Scherbak",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "gatsby": "^2.9.1",
     "gatsby-image": "^2.1.3",
     "gatsby-plugin-manifest": "^2.1.1",
@@ -15,10 +16,13 @@
     "gatsby-transformer-sharp": "^2.1.21",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.9",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
+    "bootstrap-scss": "^4.3.1",
+    "gatsby-plugin-sass": "^2.0.11",
     "prettier": "^1.18.2"
   },
   "keywords": [
